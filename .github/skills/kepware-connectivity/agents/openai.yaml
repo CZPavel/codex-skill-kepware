@@ -1,0 +1,6 @@
+﻿interface:
+  display_name: "Kepware Connectivity"
+  short_description: "Integrace Kepware, IoT Gateway a Config API"
+  default_prompt: "Use $kepware-connectivity to design or validate secure Kepware integration workflows with scripts and docs."
+policy:
+  allow_implicit_invocation: true
